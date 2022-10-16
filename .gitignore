@@ -23,4 +23,5 @@ dist-ssr
 *.sln
 *.sw?
 
-main.css
+# Local Netlify folder
+.netlify
